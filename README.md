@@ -1,4 +1,5 @@
 # i'm jeesusmies
-and i'm 13 years old
+<font size="2">and i'm 13 years old</font>  
+<font size="1">and i like cats</font>
 
 Discord: `kissa#0500`
