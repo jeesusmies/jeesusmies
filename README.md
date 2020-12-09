@@ -1,5 +1,4 @@
 # i'm jeesusmies
-<font size="2">and i'm 13 years old</font>  
-<font size="1">and i like cats</font>
+i want to be back end dev but its hard
 
 Discord: `miau#0500`
